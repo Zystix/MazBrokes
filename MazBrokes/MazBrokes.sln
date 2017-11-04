@@ -5,9 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazBrokes", "MazBrokes\MazBrokes.csproj", "{D478ADAB-B3F0-4D55-ABC1-04073552B704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazBrokes Editor", "..\MazBrokes Editor\MazBrokes Editor\MazBrokes Editor.csproj", "{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}"
-EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MazCloud", "MazCloud\MazCloud.sqlproj", "{A20F1C50-4899-4D7B-81C7-5A6424257BB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazBrokes Editor", "..\..\..\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\MazBrokes Editor.csproj", "{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,12 +23,6 @@ Global
 		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A20F1C50-4899-4D7B-81C7-5A6424257BB6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
