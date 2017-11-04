@@ -1,0 +1,40 @@
+﻿<Window x:Class="MazBrokes_Editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MazBrokes_Editor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="389.13" Width="664.13" >
+    <Grid>
+        <Label x:Name="lblOutcomes" Content="Outcomes" HorizontalAlignment="Center" Margin="378,18,156,0" VerticalAlignment="Top" Width="122" HorizontalContentAlignment="Center"/>
+        <Label x:Name="lblEventOrigin" Content="Event&#xD;&#xA;" HorizontalAlignment="Left" Margin="303,47,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label Content="Name&#xD;&#xA;" HorizontalAlignment="Left" Margin="303,78,0,0" VerticalAlignment="Top" Height="27"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="18" Margin="357,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Probability&#xD;&#xA;" HorizontalAlignment="Left" Margin="278,105,0,0" VerticalAlignment="Top" Height="31"/>
+        <TextBox x:Name="txtProbability" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Margin="357,105,0,0"/>
+        <Label Content="Prize Desc&#xD;&#xA;" HorizontalAlignment="Left" Margin="273,136,0,0" VerticalAlignment="Top" Width="69" Height="25"/>
+        <TextBox x:Name="txtPrizeDesc" HorizontalAlignment="Left" Height="22" Margin="357,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Bet Multiplier&#xD;&#xA;" HorizontalAlignment="Left" Margin="260,163,0,0" VerticalAlignment="Top" Width="82" Height="24"/>
+        <TextBox x:Name="txtBetMultiplier" HorizontalAlignment="Left" Height="22" Margin="357,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
+        <Button x:Name="btnSerialize" Content="Serialize" HorizontalAlignment="Left" Margin="484,261,0,0" VerticalAlignment="Top" Width="114" Click="btnSerialize_Click" Height="34"/>
+        <Label Content="Events" HorizontalAlignment="Left" Margin="53,16,0,0" VerticalAlignment="Top" Width="116" HorizontalContentAlignment="Center"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="6,44,0,0" VerticalAlignment="Top"/>
+        <Label Content="Desc" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Type" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtEventName" HorizontalAlignment="Left" Height="23" Margin="53,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="txtEventDesc" HorizontalAlignment="Left" Height="23" Margin="53,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="txtEventType" HorizontalAlignment="Left" Height="23" Margin="53,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <Button x:Name="btnEventAdd" Content="Add Event" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" Width="87" Click="btnEventAdd_Click" Height="37"/>
+        <Button x:Name="btnAddOutcome" Content="Add Outcome" HorizontalAlignment="Left" Margin="532,49,0,0" VerticalAlignment="Top" Width="90" Click="btnAddOutcome_Click"/>
+        <TextBox x:Name="txtEventOrigin" HorizontalAlignment="Left" Height="23" Margin="357,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" />
+        <Button x:Name="btnDeserialize" Content="Deserialize" HorizontalAlignment="Left" Margin="484,300,0,0" VerticalAlignment="Top" Width="114" Click="btnDeserialize_Click" Height="29"/>
+        <ListBox x:Name="lstDesirializedObjects" HorizontalAlignment="Left" Height="111" Margin="10,235,0,0" VerticalAlignment="Top" Width="187" MouseDoubleClick="lstDesirializedObjects_MouseDoubleClick" />
+        <Button x:Name="btnEventEdit" Content="Edit Event" HorizontalAlignment="Left" Margin="66,182,0,0" VerticalAlignment="Top" Width="90" Click="BtnEventEdit_Click" Height="34"/>
+        <ListBox x:Name="lstDesirializedOutcomes" HorizontalAlignment="Left" Height="111" Margin="234,235,0,0" VerticalAlignment="Top" Width="170" MouseDoubleClick="lstDesirializedOutcomes_MouseDoubleClick"/>
+        <Button x:Name="btnEditOutcome" Content="Edit Outcome" HorizontalAlignment="Left" Margin="532,74,0,0" VerticalAlignment="Top" Width="90"  />
+        <Button x:Name="btnDeleteevent" Content="Delete Event" HorizontalAlignment="Left" Margin="107,140,0,0" VerticalAlignment="Top" Width="90" Click="btnDeleteevent_Click" Height="37"/>
+        <Button x:Name="btnDeleteOutcome" Content="Delete Outcome" HorizontalAlignment="Left" Margin="532,99,0,0" VerticalAlignment="Top" Width="90" Click="btnDeleteOutcome_Click"/>
+
+    </Grid>
+</Window>

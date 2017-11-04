@@ -1,0 +1,19 @@
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\MazBrokes Editor.exe.config
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\MazBrokes Editor.exe
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\MazBrokes Editor.pdb
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.csprojResolveAssemblyReference.cache
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MainWindow.g.cs
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\App.g.cs
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor_MarkupCompile.cache
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor_MarkupCompile.lref
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MainWindow.baml
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.g.resources
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes_Editor.Properties.Resources.resources
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.csproj.GenerateResource.Cache
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.csproj.CoreCompileInputs.cache
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.exe
+C:\Users\christian\Documents\Visual Studio 2017\Projects\MazBrokes Editor\MazBrokes Editor\obj\Debug\MazBrokes Editor.pdb

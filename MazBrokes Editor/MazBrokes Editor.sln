@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazBrokes Editor", "MazBrokes Editor\MazBrokes Editor.csproj", "{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FDF11C-8E1C-4E49-BE9B-4EF7F81FB901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC1692E-8114-400F-971F-00182E01421C}
+	EndGlobalSection
+EndGlobal
