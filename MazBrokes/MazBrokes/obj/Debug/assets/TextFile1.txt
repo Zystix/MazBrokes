@@ -13,7 +13,7 @@ general_Between 1-100 Sausages bought by visitors_1/20_Your bet times 5_5
 
 general_Between 100-500 Sausages bought by visitors_1/10_Your bet times 4_4
 
-general_Between 500-100 Sausages bought by visitors_1/15_Your bet times 5_5
+general_Between 500-1000 Sausages bought by visitors_1/15_Your bet times 5_5
 
 general_Someone will be arrested by the end of the day_1/300_Times your bet by 10_10
 

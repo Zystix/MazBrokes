@@ -1,1 +1,143 @@
-[{"Outcomes":[{"Name":"Red Team Wins","oddsArray":["1","2"],"oddsFor":"1:1","Prize":"25% of what you bet","oddsAgainst":"1:1","probDecimal":0.5,"mPayout":0.25},{"Name":"Blue Team Wins ","oddsArray":["1","2"],"oddsFor":"1:1","Prize":"25% of what you bet","oddsAgainst":"1:1","probDecimal":0.5,"mPayout":0.25},{"Name":"Draw","oddsArray":["1","3"],"oddsFor":"2:1","Prize":"50%  of what you bet","oddsAgainst":"1:2","probDecimal":0.33333333333333331,"mPayout":0.5},{"Name":"Red Wins by 10 points","oddsArray":["1","4"],"oddsFor":"3:1","Prize":"Double Your Bet","oddsAgainst":"1:3","probDecimal":0.25,"mPayout":2.0},{"Name":"Blue Wins by 10 Points","oddsArray":["1","4"],"oddsFor":"3:1","Prize":"Double your bet","oddsAgainst":"1:3","probDecimal":0.25,"mPayout":2.0}],"eventName":"Bubble Soccer","eventType":"Team v Team","Description":"Its Bubble Soccer"},{"Outcomes":[],"eventName":"Ben's Dice Roll","eventType":"Individule","Description":"You Roll Dice"},{"Outcomes":[{"Name":"Someone hits the cross bar before 1pm","oddsArray":["1","5"],"oddsFor":"4:1","Prize":"2 and a half times your bet","oddsAgainst":"1:4","probDecimal":0.2,"mPayout":2.5}],"eventName":"Owen's Crossbar challenge","eventType":"individuale","Description":"You have to hit the cross bar"},{"Outcomes":[],"eventName":"Coinflip","eventType":"Individuale","Description":"Its a coinflip"},{"Outcomes":[{"Name":"It rains before the end of the day","oddsArray":["1","6"],"oddsFor":"5:1","Prize":"Triple your bet","oddsAgainst":"1:5","probDecimal":0.16666666666666666,"mPayout":3.0},{"Name":"Between 1-100 sausages bought on the day","oddsArray":["1","20"],"oddsFor":"19:1","Prize":"Your bet times 5","oddsAgainst":"1:19","probDecimal":0.05,"mPayout":5.0},{"Name":"Between 101-500 sausages bought by visitors","oddsArray":["1","10"],"oddsFor":"9:1","Prize":"Your bet times 4","oddsAgainst":"1:9","probDecimal":0.1,"mPayout":4.0},{"Name":"Between 501-1000 sausages bought by visitors","oddsArray":["1","15"],"oddsFor":"14:1","Prize":"Your bet times 5","oddsAgainst":"1:14","probDecimal":0.066666666666666666,"mPayout":5.0},{"Name":"Someone will be arrested by the end of the day","oddsArray":["1","300"],"oddsFor":"299:1","Prize":"Your bet times 10","oddsAgainst":"1:299","probDecimal":0.0033333333333333335,"mPayout":10.0},{"Name":"Volcano erupting from under the oval","oddsArray":["1","10000"],"oddsFor":"9999:1","Prize":"Doesnt matter, we'd all be dead","oddsAgainst":"1:9999","probDecimal":0.0001,"mPayout":0.0}],"eventName":"General","eventType":"Extra","Description":"All sorts of bets that dont fit into anyone category"}]
+[
+  {
+    "Outcomes": [
+      {
+        "mPayout": 0.25,
+        "Name": "Red Team Wins",
+        "oddsAgainst": "1:1",
+        "oddsArray": [ "1", "2" ],
+        "oddsFor": "1:1",
+        "Prize": "25% of what you bet",
+        "probDecimal": 0.5
+      },
+      {
+        "Name": "Blue Team Wins ",
+        "oddsArray": [ "1", "2" ],
+        "oddsFor": "1:1",
+        "Prize": "25% of what you bet",
+        "oddsAgainst": "1:1",
+        "probDecimal": 0.5,
+        "mPayout": 0.25
+      },
+      {
+        "Name": "Draw",
+        "oddsArray": [ "1", "3" ],
+        "oddsFor": "2:1",
+        "Prize": "50%  of what you bet",
+        "oddsAgainst": "1:2",
+        "probDecimal": 0.33333333333333331,
+        "mPayout": 0.5
+      },
+      {
+        "Name": "Red Wins by 10 points",
+        "oddsArray": [ "1", "4" ],
+        "oddsFor": "3:1",
+        "Prize": "Double Your Bet",
+        "oddsAgainst": "1:3",
+        "probDecimal": 0.25,
+        "mPayout": 2.0
+      },
+      {
+        "Name": "Blue Wins by 10 Points",
+        "oddsArray": [ "1", "4" ],
+        "oddsFor": "3:1",
+        "Prize": "Double your bet",
+        "oddsAgainst": "1:3",
+        "probDecimal": 0.25,
+        "mPayout": 2.0
+      }
+    ],
+    "eventName": "Bubble Soccer",
+    "eventType": "Team v Team",
+    "Description": "Its Bubble Soccer"
+  },
+  {
+    "Outcomes": [],
+    "eventName": "Ben's Dice Roll",
+    "eventType": "Individule",
+    "Description": "You Roll Dice"
+  },
+  {
+    "Outcomes": [
+      {
+        "Name": "Someone hits the cross bar before 1pm",
+        "oddsArray": [ "1", "5" ],
+        "oddsFor": "4:1",
+        "Prize": "2 and a half times your bet",
+        "oddsAgainst": "1:4",
+        "probDecimal": 0.2,
+        "mPayout": 2.5
+      }
+    ],
+    "eventName": "Owen's Crossbar challenge",
+    "eventType": "individuale",
+    "Description": "You have to hit the cross bar"
+  },
+  {
+    "Outcomes": [],
+    "eventName": "Coinflip",
+    "eventType": "Individuale",
+    "Description": "Its a coinflip"
+  },
+  {
+    "Outcomes": [
+      {
+        "Name": "It rains before the end of the day",
+        "oddsArray": [ "1", "6" ],
+        "oddsFor": "5:1",
+        "Prize": "Triple your bet",
+        "oddsAgainst": "1:5",
+        "probDecimal": 0.16666666666666666,
+        "mPayout": 3.0
+      },
+      {
+        "Name": "Between 1-100 sausages bought on the day",
+        "oddsArray": [ "1", "20" ],
+        "oddsFor": "19:1",
+        "Prize": "Your bet times 5",
+        "oddsAgainst": "1:19",
+        "probDecimal": 0.05,
+        "mPayout": 5.0
+      },
+      {
+        "Name": "Between 101-500 sausages bought by visitors",
+        "oddsArray": [ "1", "10" ],
+        "oddsFor": "9:1",
+        "Prize": "Your bet times 4",
+        "oddsAgainst": "1:9",
+        "probDecimal": 0.1,
+        "mPayout": 4.0
+      },
+      {
+        "Name": "Between 501-1000 sausages bought by visitors",
+        "oddsArray": [ "1", "15" ],
+        "oddsFor": "14:1",
+        "Prize": "Your bet times 5",
+        "oddsAgainst": "1:14",
+        "probDecimal": 0.066666666666666666,
+        "mPayout": 5.0
+      },
+      {
+        "Name": "Someone will be arrested by the end of the day",
+        "oddsArray": [ "1", "300" ],
+        "oddsFor": "299:1",
+        "Prize": "Your bet times 10",
+        "oddsAgainst": "1:299",
+        "probDecimal": 0.0033333333333333335,
+        "mPayout": 10.0
+      },
+      {
+        "Name": "Volcano erupting from under the oval",
+        "oddsArray": [ "1", "10000" ],
+        "oddsFor": "9999:1",
+        "Prize": "Doesnt matter, we'd all be dead",
+        "oddsAgainst": "1:9999",
+        "probDecimal": 0.0001,
+        "mPayout": 0.0
+      }
+    ],
+    "eventName": "General",
+    "eventType": "Extra",
+    "Description": "All sorts of bets that dont fit into anyone category"
+  }
+]
