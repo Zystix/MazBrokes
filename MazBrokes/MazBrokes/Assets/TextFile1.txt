@@ -1,0 +1,25 @@
+﻿bubblesoccer_Red Team Wins_1/2_25% Of What you bet_0.25
+
+bubblesoccer_Blue Team Wins_1/2_25% of What you bet_0.25
+
+bubblesoccer_Draw_1/3_50% of What you bet_0.5
+
+bubblesoccer_Red Wins By 10 Points_1/4_Double Your Bet_2 
+
+
+general_It Rains before the end of the day_1/6_Triple Your Bet_3
+
+general_Between 1-100 Sausages bought by visitors_1/20_Your bet times 5_5
+
+general_Between 100-500 Sausages bought by visitors_1/10_Your bet times 4_4
+
+general_Between 500-1000 Sausages bought by visitors_1/15_Your bet times 5_5
+
+general_Someone will be arrested by the end of the day_1/300_Times your bet by 10_10
+
+general_Volcano Erupting from under the oval_1/10000_Doesn't Matter, we'd all be dead_0
+
+
+crossbar_Someone Hits Crossbar before 1pm_1/5_2.5 times your bet_2.5
+
+
